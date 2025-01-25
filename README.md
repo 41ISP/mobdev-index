@@ -36,6 +36,16 @@ Git
 
 -   [Задание 1](https://github.com/41isp/mobdev-lab1) _<-- Мы здесь_
 
+## Софт
+
+- [NodeJS](https://nodejs.org/en)
+
+_Дома лучше использовать _[https://github.com/Schniz/fnm](fnm)_
+
+-   [Git](https://git-scm.com/downloads)
+
+-   Любой редактор кода (желательно [Visual Studio Code](https://code.visualstudio.com/)
+
 ## Документация
 
 -   [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript)
