@@ -16,8 +16,6 @@
 
 [Презентация по Git](https://ktkv-presentations.github.io/algos-8/)
 
-⬇ Мы здесь
-
 [Интерактивный тренажер по Git](https://ohmygit.org/)
 
 ### 2. Терминал
@@ -27,6 +25,20 @@
 или
 
 [Бесплатный курс по терминалу](https://ru.hexlet.io/courses/cli-basics) [ru]
+
+### 3. Введение в верстку
+
+#### 4. HTML
+
+[HTML Academy #1](https://htmlacademy.ru/courses/297/)
+
+[HTML Academy #2](https://htmlacademy.ru/courses/299)
+
+[Лабораторная работа #1](https://github.com/31ISP/mobdev3-lab1)
+
+⬇ Мы здесь
+
+[Лабораторная работа #2](https://github.com/31ISP/mobdev3-lab1)
 
 ## Как выполнять задания
 
