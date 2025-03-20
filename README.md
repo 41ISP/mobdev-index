@@ -44,6 +44,24 @@
 
 [Лабораторная работа #3](https://github.com/31ISP/mobdev3-lab3)
 
+### 3. Основы CSS
+
+#### Flexbox
+
+- [Flexbox Froggy](https://flexboxfroggy.com)
+
+- [Лабораторная работа №4](https://github.com/31isp/mobdev3-lab4)
+
+#### Grid
+
+- [Grid Garden](https://cssgridgarden.com/#ru)
+
+⬇ Мы здесь
+
+- [Лабораторная работа №5](https://github.com/31isp/mobdev3-lab5)
+
+- [Лабораторная работа №6](https://github.com/31isp/mobdev3-lab6)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
