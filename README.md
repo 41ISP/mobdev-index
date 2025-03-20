@@ -56,8 +56,6 @@
 
 - [Grid Garden](https://cssgridgarden.com/#ru)
 
-⬇ Мы здесь
-
 - [Лабораторная работа №5](https://github.com/31isp/mobdev3-lab5)
 
 - [Лабораторная работа №6](https://github.com/31isp/mobdev3-lab6)
