@@ -66,6 +66,8 @@
 
 - [Лекция](https://ktkv-presentations.github.io/uidev-11/#/1/1)
 
+- [Лекция](https://ktkv-presentations.github.io/uidev-12/#/1/1)
+
 - [Лабораторная работа №7](https://github.com/41ISP/mobdev3-lab7)
 
 ## Как выполнять задания
