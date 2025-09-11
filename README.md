@@ -36,8 +36,6 @@
 
 [Лабораторная работа #1](https://github.com/31ISP/mobdev3-lab1)
 
-⬇ Мы здесь
-
 [Лабораторная работа #2](https://github.com/31ISP/mobdev3-lab2)
 
 [CSS Diner (CSS селекторы)](https://flukeout.github.io/)
@@ -69,6 +67,8 @@
 - [Лекция](https://ktkv-presentations.github.io/uidev-12/#/1/1)
 
 - [Лабораторная работа №7](https://github.com/41ISP/mobdev3-lab7)
+
+⬇ Мы здесь
 
 #### Fetch
 
