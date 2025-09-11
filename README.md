@@ -74,7 +74,7 @@
 
 - [Лекция](https://ktkv-presentations.github.io/uidev-14)
 
-- [Задание]()
+- [Лабораторная работа №8](https://github.com/41ISP/mobdev3-lab8)
 
 ## Как выполнять задания
 
