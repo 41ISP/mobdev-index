@@ -34,13 +34,13 @@
 
 [HTML Academy #2](https://htmlacademy.ru/courses/299)
 
-[Лабораторная работа #1](https://github.com/31ISP/mobdev3-lab1)
+[Лабораторная работа #1](https://github.com/41ISP/mobdev3-lab1)
 
-[Лабораторная работа #2](https://github.com/31ISP/mobdev3-lab2)
+[Лабораторная работа #2](https://github.com/41ISP/mobdev3-lab2)
 
 [CSS Diner (CSS селекторы)](https://flukeout.github.io/)
 
-[Лабораторная работа #3](https://github.com/31ISP/mobdev3-lab3)
+[Лабораторная работа #3](https://github.com/41ISP/mobdev3-lab3)
 
 ### 3. Основы CSS
 
@@ -48,15 +48,15 @@
 
 - [Flexbox Froggy](https://flexboxfroggy.com)
 
-- [Лабораторная работа №4](https://github.com/31isp/mobdev3-lab4)
+- [Лабораторная работа №4](https://github.com/41isp/mobdev3-lab4)
 
 #### Grid
 
 - [Grid Garden](https://cssgridgarden.com/#ru)
 
-- [Лабораторная работа №5](https://github.com/31isp/mobdev3-lab5)
+- [Лабораторная работа №5](https://github.com/41isp/mobdev3-lab5)
 
-- [Лабораторная работа №6](https://github.com/31isp/mobdev3-lab6)
+- [Лабораторная работа №6](https://github.com/41isp/mobdev3-lab6)
 
 ### Основы JS
 
