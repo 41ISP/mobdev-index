@@ -177,6 +177,48 @@ _об этом будет сигнализировать галочки у по�
     <img src="./.repo/images/host-5.png" width="80%" />
 </p>
 
+### Как хостить React работу
+
+1. Установите пакет `gh-pages` как зависимость разработчика
+
+```bash
+npm i -D gh-pages
+```
+
+2. Укажите название репозитория в файле `vite.config.js`
+
+```js
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+// https://vite.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  base: '/название_репозитория/'
+})
+```
+
+3. Добавьте скрипт в `package.json`
+
+```json
+"deploy": "npm run build && npx gh-pages -d dist -f"
+```
+
+4. Запустите скрипт
+
+```bash
+npm run deploy
+```
+
+#### Если что-то пошло не так и надо перехостить
+
+```bash
+git push origin --delete gh-pages
+git branch -D gh-pages
+npm run deploy
+```
+
+_Удаляем ветку и заново деплоим_
 
 ## Установка ПО
 
