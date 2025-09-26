@@ -68,13 +68,21 @@
 
 - [Лабораторная работа №7](https://github.com/41ISP/mobdev3-lab7)
 
-⬇ Мы здесь
-
 #### Fetch
 
 - [Лекция](https://ktkv-presentations.github.io/uidev-14)
 
 - [Лабораторная работа №8](https://github.com/41ISP/mobdev3-lab8)
+
+### React
+
+- [Памятка React](https://github.com/41ISP/mobdev3-react)
+
+- [Лабораторная работа №9](https://github.com/41ISP/mobdev3-lab9)
+
+⬇ Мы здесь
+
+- [Лабораторная работа №10](https://github.com/41ISP/mobdev3-lab10)
 
 ## Как выполнять задания
 
