@@ -82,7 +82,7 @@
 
 ⬇ Мы здесь
 
-- [Общая работа №11](https://github.com/41ISP/mobdev3-react-router)
+- [Общая работа](https://github.com/41ISP/mobdev3-react-router)
 
 - [Лабораторная работа №10](https://github.com/41ISP/mobdev3-lab10)
 
