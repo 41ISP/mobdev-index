@@ -210,6 +210,8 @@ export default defineConfig({
 
 3. Добавьте `basepath` в `router`
 
+_Этот шаг выполняется только если в работе присутствует `react-router-dom`_
+
 ```jsx
 const router = createBrowserRouter(
   [
