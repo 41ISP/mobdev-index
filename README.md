@@ -208,13 +208,26 @@ export default defineConfig({
 })
 ```
 
-3. Добавьте скрипт в `package.json`
+3. Добавьте `basepath` в `router`
+
+```jsx
+const router = createBrowserRouter(
+  [
+    ...
+  ],
+  {
+    basename: "/название_репозитория"
+  }
+)
+```
+
+5. Добавьте скрипт в `package.json`
 
 ```json
 "deploy": "npm run build && npx gh-pages -d dist -f"
 ```
 
-4. Запустите скрипт
+5. Запустите скрипт
 
 ```bash
 npm run deploy
