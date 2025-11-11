@@ -255,6 +255,7 @@ _Удаляем ветку и заново деплоим_
 
 -   [Git](https://git-scm.com/downloads)
 -   [Python](https://www.python.org/downloads/)
+-   [Android SDK Script](https://gist.github.com/ktkv419/8f55c8a9ed08f0d702211fc017ae527a)
 
 ## Документация
 
