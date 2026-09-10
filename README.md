@@ -50,7 +50,7 @@
 
 - [Классная](https://github.com/41ISP/mobdev-props)
 
-- [Лабораторная](https://github.com/41ISP/mobdev-props-lab)
+- [Лабораторная](https://github.com/41ISP/webdev-props-lab)
 
 #### Хуки
 
