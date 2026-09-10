@@ -42,12 +42,21 @@
 
 - [Лабораторная работа (Fetch) #3](https://github.com/31ISP/mobdev-render-lab)
 
-
 ### 3. Основы React
 
 - [Памятка React](https://github.com/31ISP/mobdev3-react)
 
-...лабы
+#### Пропсы и компоненты
+
+- [Классная](https://github.com/41ISP/mobdev-props)
+
+- [Лабораторная](https://github.com/41ISP/mobdev-props-lab)
+
+#### Хуки
+
+- [Классная](https://github.com/41ISP/mobdev-hooks)
+
+- [Лабораторная](https://github.com/41ISP/mobdev-hooks-lab)
 
 ## Как выполнять задания
 
