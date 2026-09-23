@@ -174,7 +174,17 @@ _об этом будет сигнализировать галочки у по�
 npm i -D gh-pages
 ```
 
-2. Укажите название репозитория в файле `vite.config.js`
+2*. Поменяйте `basename` в `Browser Router`
+
+_Если в работе использовался `react-router-dom`_
+
+```jsx
+<BrowserRouter basename="/название_репозитория">
+    <App />
+</BrowserRouter>
+```
+
+3. Укажите название репозитория в файле `vite.config.js`
 
 ```js
 import { defineConfig } from 'vite'
@@ -187,22 +197,7 @@ export default defineConfig({
 })
 ```
 
-3. Добавьте `basepath` в `router`
-
-_Этот шаг выполняется только если в работе присутствует `react-router-dom`_
-
-```jsx
-const router = createBrowserRouter(
-  [
-    ...
-  ],
-  {
-    basename: "/название_репозитория"
-  }
-)
-```
-
-5. Добавьте скрипт в `package.json`
+4. Добавьте скрипт в `package.json`
 
 ```json
 "deploy": "npm run build && npx gh-pages -d dist -f"
